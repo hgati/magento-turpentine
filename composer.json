@@ -1,5 +1,5 @@
 {
-    "name": "nexcess/magento-turpentine",
+    "name": "hgati/nexcess-magento-turpentine",
     "type": "magento-module",
     "license": "GPL-2.0+",
     "description": "A Varnish extension for Magento.",
